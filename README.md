@@ -4,5 +4,6 @@ Todas as aplicações foram desenvolvidas em Python sem a utilização de nenhum
 
 ##### Arquivos: Veja aqui o que cada arquivo faz
 - Digitos pares: Calcula quantos algarismos pares um número possui sem uso de funções;
--   Menor ou igual quadrado: Calcula qual o quadrado mais próximo do número fornecido, através de um método que verifica se o número tem uma raiz quadrada exata com múltiplas subtrações.
+- Menor ou igual quadrado: Calcula qual o quadrado mais próximo do número fornecido, através de um método que verifica se o número tem uma raiz quadrada exata com múltiplas subtrações.
+- Divisão sem usar divisão: Calcula a divisão inteira de um número inteiro sem usar o operador de divisão ou função.
   
